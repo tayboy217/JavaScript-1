@@ -1,4 +1,4 @@
-# JavaScript-1
+# JavaScript-DOM
 ## JavaScript学習
 1. DOM操作
 - Webサイトを動的に置き換える技術
